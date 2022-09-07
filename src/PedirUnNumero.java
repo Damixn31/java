@@ -9,7 +9,7 @@ public class PedirUnNumero {
         } catch(NumberFormatException e) {
             JOptionPane.showMessageDialog(null, "Error debe Ingresar un numero entero");
             main(args);
-            System.exit(0);\
+            System.exit(0);
         }
 
         System.out.println("numeroDecimal = " + numeroDecimal);
