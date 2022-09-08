@@ -2,7 +2,7 @@ public class EjemploStringInmutable {
     public static void main(String[] args) {
 
         //para que el resultado mute hay que guardarla en una nueva variable.
-        
+
         String curso = "Programacion Java"; //curso se mantiene inmutable
         String nombre = "Damian Olmedo";
 
